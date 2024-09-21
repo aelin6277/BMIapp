@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">appBMI</string>
+    <string name="editTextHeight">height</string>
+    <string name="ediTextWeight">weight</string>
+    <string name="textViewResult">Result</string>
+    <string name="imageView2">bmi_photo</string>
+</resources>
